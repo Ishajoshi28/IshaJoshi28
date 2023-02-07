@@ -15,7 +15,7 @@ I like to learn new technologies, programming languages and frameworks to develo
 ✓ 2020: Started working with Tata Consultancy Services as Full Stack Developer \
 ✓ 2020: Bachelor of Technology in Electronics and Communication (Medicaps University, Indore, India) \
 
-I’m currently working with [Spring](https://spring.io/) framework
+I’m currently working with [SpringBoot](https://spring.io/projects/spring-boot/) framework
 
 💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.
 
@@ -24,7 +24,7 @@ I’m currently working with [Spring](https://spring.io/) framework
 
 
 ## 💌 &nbsp;Get in touch
-- Email: joshisha99@gmail.com
+- Email: joshisha991@gmail.com
 - Linkedin: https://www.linkedin.com/in/isha-joshi-964595129/
 
 ---
